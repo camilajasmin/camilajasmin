@@ -16,10 +16,7 @@ Em agosto de 2024 me formei como técnica em informática e no momento estou cur
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
 ![Html](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3CEEF&height=120&section=footer"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
 
 
 
