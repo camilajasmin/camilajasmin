@@ -1,5 +1,5 @@
-## Olá, sou Camila!
-- 👀 I’m interested in ...
+## Olá, me chamo Cami e este é meu github. Bem-vindo!
+Em agosto de 2024 me formei como técnica em informática e no momento estou cursando ciência da computação. Estou aqui a fim de não só observar meu desenvolvimento na área como também demonstrar isso.
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
