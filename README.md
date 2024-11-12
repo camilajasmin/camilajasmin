@@ -5,7 +5,7 @@ Em agosto de 2024 me formei como técnica em informática e no momento estou cur
 <a href="https://github.com/camilajasmin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilajasmin&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Chayanns">
+<a href="https://github.com/camilajasmin">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camilajasmin&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 </div>
