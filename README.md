@@ -1,6 +1,7 @@
-## Olá, me chamo Cami e este é meu github. Bem-vindo!
-Em agosto de 2024 me formei como técnica em informática e no momento estou cursando ciência da computação. Estou aqui a fim de não só observar meu desenvolvimento na área como também demonstrar isso.
+## Olá! 👋 Seja bem-vindo(a) ao meu GitHub.
+Me chamo Camila Espinoza, sou técnica em Informática (formada em agosto de 2024) e atualmente curso Ciência da Computação. Este espaço é dedicado ao meu desenvolvimento na área de tecnologia, onde compartilho projetos, práticas, aprendizados e desafios que fazem parte da minha jornada.
 
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
 <div align="center">  
 <a href="https://github.com/camilajasmin">
  <img align="start" src="https://github-readme-stats.vercel.app/api?username=camilajasmin&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
