@@ -1,7 +1,9 @@
 ## Olá! 👋 Seja bem-vindo(a) ao meu GitHub.
-Me chamo Camila Espinoza, sou técnica em Informática (formada em agosto de 2024) e atualmente curso Ciência da Computação. Este espaço é dedicado ao meu desenvolvimento na área de tecnologia, onde compartilho projetos, práticas, aprendizados e desafios que fazem parte da minha jornada.
+Técnica em Informática (agosto/2024) e aluna de Ciência da Computação.
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
+Este perfil é o meu portfólio de desenvolvimento em tecnologia, onde compartilho o aprendizado, projetos e desafios da minha jornada.
+
+Sinta-se à vontade para explorar e acompanhar minha evolução! 🚀
 <div align="center">  
 <a href="https://github.com/camilajasmin">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilajasmin&langs_count=8">
