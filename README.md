@@ -8,7 +8,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 </a>
 </div>
 
-### Studying in this moment:
+### Meu foco:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
