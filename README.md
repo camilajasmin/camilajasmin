@@ -4,9 +4,6 @@ Me chamo Camila Espinoza, sou técnica em Informática (formada em agosto de 202
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
 <div align="center">  
 <a href="https://github.com/camilajasmin">
- <img align="start" src="https://github-readme-stats.vercel.app/api?username=camilajasmin&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-<a href="https://github.com/camilajasmin">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilajasmin&langs_count=8">
 </a>
 </div>
